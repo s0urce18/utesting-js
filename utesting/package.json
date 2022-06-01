@@ -1,0 +1,8 @@
+{
+    "name": "utesting",
+    "version": "1.0.0",
+    "author": "_s0urce_",
+    "license": "MIT",
+    "description": "JS module for unit testing",
+    "homepage": "https://github.com/s0urce18/utesting-js"
+}
