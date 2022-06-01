@@ -8,6 +8,6 @@ JS module for unit testing
 
 `addTestUnit(callback, cases, onlyErrors, onlyTime, noPrint)` — same as mark_test_unit, but can't be used as decorator
 
-`test_all(fileName)` — running testing all marked(added) units
+`testAll(fileName)` — running testing all marked(added) units
 
 And other documentation in `utesting/index.js` and examples in `examples.js`
