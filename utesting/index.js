@@ -279,7 +279,7 @@ class Test{ // main class for testing
         let output = console.log;
         let allPassed = true;
         if(fileName != ""){
-            output = function (text) {fs.writeFile(fileName, text);}
+            output = function (text) {fs.appendFileSync(fileName, text);}
         }
         for(let group of this.groups){
             let result = this.test(group, output);
