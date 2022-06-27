@@ -1,6 +1,6 @@
 # utesting-js
 
-**GitHub:** https://github.com/s0urce18/utesting-js
+**GitHub:** https://github.com/s0urcedev/utesting-js
 
 **NPM:** https://www.npmjs.com/package/utesting
 
